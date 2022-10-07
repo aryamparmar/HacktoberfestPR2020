@@ -9,6 +9,14 @@
 - Bio: C++, C and Python programmer
 - GitHub: [gauravpandey22](https://github.com/gauravpandey22)
 
+
+#### Name: Aryam Parmar
+
+- Place: India
+- Bio: C++, C and JS
+- GitHub: [aryamparmar](https://github.com/aryamparmar)
+
+
 #### Name: Toshani
 
 - Place: India
