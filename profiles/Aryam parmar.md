@@ -6,7 +6,7 @@ delhi, India
 
 ### Academics
 
-Netaji Subhas University of Technology 
+Netaji Subhas University of Technology,delhi 
 
 ### Interests
 

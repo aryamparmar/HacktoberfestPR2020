@@ -13,7 +13,7 @@
 #### Name: Aryam Parmar
 
 - Place: India
-- Bio: C++, C and JS
+- Bio: C++, C and Java Script
 - GitHub: [aryamparmar](https://github.com/aryamparmar)
 
 
